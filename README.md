@@ -9,5 +9,5 @@ hashcheck.ps1 -generatehash -hashdir <directory to hash> -hashfile <file to stor
 
 ### Compare directory against intermediate hash file
 ```
-hashcheck.ps1 -hashfile <file read hashes>
+hashcheck.ps1 -hashfile <file to read hashes>
 ```
